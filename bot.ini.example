@@ -1,6 +1,6 @@
 [tg_bot]
-token =
-admin_id =
+token = "1312141914:AAEaGViDWMh4xNXEknfXQUj1JsIKh-ndAjc"
+admin_id = "168988543" 
 use_redis = true
 
 [db]
